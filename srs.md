@@ -123,7 +123,7 @@ SRS определяет, **что** приложение должно дела�
 | 5 | Creative Commons Attribution 4.0 International (CC BY 4.0) | Справочная | https://creativecommons.org/licenses/by/4.0/ |
 | 6 | OMG Systems Modeling Language (SysML) v2 | Справочная | https://www.omg.org/sysml/sysmlv2/ |
 | 7 | Графические модели SysML v2 (исходники `.sysml` и PNG) | Нормативная | `diagrams/` |
-| 8 | Репозиторий проекта WeatherDesk (создан в лабораторной работе №2), ветка `lab3-srs` | Нормативная | репозиторий студента |
+| 8 | Репозиторий проекта WeatherDesk (создан в лабораторной работе №2), ветка `WeatherDesk` | Нормативная | https://github.com/BavbelSergey |
 
 ### 1.5 Обзор документа {#15-document-overview}
 
